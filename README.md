@@ -8,5 +8,5 @@
 7. Search notes
 
 # Developer Info
-Created by: **Yash Gamdha**
+Created by: **Yash Gamdha** <br>
 _Follow for more apps_
